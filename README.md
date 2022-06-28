@@ -1,49 +1,55 @@
-# Clon del UI de Twitter
+# Twitter UI Clone
+## Information 
+This project is part of a monthly challenges created by MoureDev for his comunity.
 
-Este proyecto lo realice para completar el reto mensual de programacion de MoureDev, usando SwiftUI.
+In this challenge the feed should display Tweets of the following types:
 
-En esta ocasion se debia presentar un clon de la UI de Twitter monstrando en el feed tweets con las siguientes caracteristicas:
+- Text tweet.
+- Tweet with an image.
+- Tweet with up to 4 images.
+- Tweet with a GIF.
 
-Tweet de texto.
+Each Tweet should contain the following functionalities:
 
-Tweet con imagen.
+- Display the number of likes, retweets or comments.
+- Represent hashtag or mentions (without filtering interaction).
+- Represent links (with interaction and opening in a browser).
+- User photo, name, date, tweet body and action buttons (without the profile edit feature)
 
-Tweet con hasta 4 imagenes.
+Extra functionalities. For example:
 
-Tweet con GIF.
+- Tweets with video or poll.
+- Tweets detail page, showing comments.
+- Image detail and zoom.
 
-Tweet con Hashtag.
+## My app
 
-Tween con enlace.
+This project gave me the opportunity to create UI based on an existing design and be creative to add my own funcionalities.
 
-# Tecnologias utilizadas
+**Coding:**
+- Swift
+- SwiftUI
+- Firebase
 
-SwiftUI
+**My funcionalities added:**
+- Launch Screen.
+- Side Menu. (*non responsive buttons*)
+- Tweet with video.
+- Publish new Tweet.
+- Like a tweet.
+- Pop up menu on Tweets.
+- Edit Tweet. (*shows "Time Out" alert*)
+- Buy a coffee for the tweet owner. (*non responsive*)
 
-Firebase
+**Work in progress**
+- Refreshing the feed view automaticly once a new tweet is published and show it.
+- Dark mode.
+- Launch Screen with animation.
 
-
-# Otras funcionalidades agregadas al proyecto:
-
-Funcionalidades:
-
-Crear nuevos Tweets de texto.
-
-Poner "Me Gusta".
-
-Tweet con Video.
-
-Extras sin funcionalidad:
-
-Editar Tweet.
-
-Donar un café al creador del Tweet.
-
-# Screenshots
+### Take a look
+![FeedView](https://user-images.githubusercontent.com/70155073/176316406-a2a87ba2-f9b4-4c2b-9b7e-3db82c1b65db.png)
+![NewTweet-View](https://user-images.githubusercontent.com/70155073/176316409-5199abda-0f64-4c9f-a51d-206e4147544f.png)
+![SideMenu](https://user-images.githubusercontent.com/70155073/176316410-6a12ca96-17be-4b62-aa24-66511950a87c.png)
+![Tweet-PopUpMenu](https://user-images.githubusercontent.com/70155073/176316411-39fd41a2-1c62-48fc-93e1-83c8eec53a4a.png)
 
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-28 at 17 40 50](https://user-images.githubusercontent.com/70155073/176222645-2bd9e360-5d54-46e2-b5dc-eaa5efb3502b.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-28 at 17 41 37](https://user-images.githubusercontent.com/70155073/176222752-1de17014-3686-4b8f-a40e-2353d1984833.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-28 at 17 42 13](https://user-images.githubusercontent.com/70155073/176222768-fd66be84-8f6e-4d62-a02e-0737a09beead.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-28 at 17 42 28](https://user-images.githubusercontent.com/70155073/176222776-f053cfa4-e3ac-4c7d-ba3d-b408e7e02700.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-28 at 17 42 59](https://user-images.githubusercontent.com/70155073/176222790-2bd5519c-20fa-4ddd-82ab-9f9f1b2b60c8.png)
