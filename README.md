@@ -47,9 +47,9 @@ This project gave me the opportunity to create UI based on an existing design an
 - Launch Screen with animation.
 
 ### Take a look
-![FeedView](https://user-images.githubusercontent.com/70155073/176316406-a2a87ba2-f9b4-4c2b-9b7e-3db82c1b65db.png)
-![NewTweet-View](https://user-images.githubusercontent.com/70155073/176316409-5199abda-0f64-4c9f-a51d-206e4147544f.png)
-![SideMenu](https://user-images.githubusercontent.com/70155073/176316410-6a12ca96-17be-4b62-aa24-66511950a87c.png)
 ![Tweet-PopUpMenu](https://user-images.githubusercontent.com/70155073/176316411-39fd41a2-1c62-48fc-93e1-83c8eec53a4a.png)
+![SideMenu](https://user-images.githubusercontent.com/70155073/176316410-6a12ca96-17be-4b62-aa24-66511950a87c.png)
+![NewTweet-View](https://user-images.githubusercontent.com/70155073/176316409-5199abda-0f64-4c9f-a51d-206e4147544f.png)
+
 
 
