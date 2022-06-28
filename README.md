@@ -2,7 +2,7 @@
 
 Este proyecto lo realice para completar el reto mensual de programacion de MoureDev, usando SwiftUI.
 
-En esta ocasion se debia presentar un clon de la UI de Twitter monstrando en el feed tweets con las siguientes caracteristica:
+En esta ocasion se debia presentar un clon de la UI de Twitter monstrando en el feed tweets con las siguientes caracteristicas:
 
 Tweet de texto.
 
