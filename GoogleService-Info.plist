@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>414513104795-7si1c7nkb8audmo83edgn4p73rr3s1uh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.414513104795-7si1c7nkb8audmo83edgn4p73rr3s1uh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7DPE4eVLr20uWZSLRE9dMeB3bWr9Ihf0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>414513104795</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FerRomero.TwitterCloneFR</string>
+	<key>PROJECT_ID</key>
+	<string>twitterclonefr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitterclonefr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:414513104795:ios:d32cd2b0df293c4046433e</string>
+</dict>
+</plist>
